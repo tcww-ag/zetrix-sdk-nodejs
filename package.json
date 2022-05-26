@@ -1,0 +1,38 @@
+{
+  "name": "zetrix-sdk-nodejs",
+  "version": "1.0.0",
+  "description": "zetrix sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "zetrix",
+    "zetrix-sdk"
+  ],
+  "author": "ZtxChain",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber.js": "^7.2.1",
+    "buffer-to-uint8array": "^1.1.0",
+    "co-wrap-all": "^1.0.0",
+    "humps": "^2.0.1",
+    "is-type-of": "^1.2.0",
+    "json-bigint": "^0.2.3",
+    "long": "^4.0.0",
+    "merge-descriptors": "^1.0.1",
+    "protobufjs": "^6.8.8",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "zetrix-encryption-nodejs": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://192.168.1.11/zetrix-v4/zetrix-sdk-nodejs.git",
+    "web": "http://192.168.1.11/zetrix-v4/zetrix-sdk-nodejs"
+  }
+}
