@@ -21,7 +21,7 @@
     "json-bigint": "^0.2.3",
     "long": "^4.0.0",
     "merge-descriptors": "^1.0.1",
-    "protobufjs": "^6.8.8",
+    "protobufjs": "^7.2.4",
     "request": "^2.87.0",
     "request-promise": "^4.2.2",
     "zetrix-encryption-nodejs": "^1.0.0"
